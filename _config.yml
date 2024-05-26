@@ -3,7 +3,8 @@ description: Chris's Work Portolio
 theme: just-the-docs
 
 url: https://christonifter.github.io/
-logo: "/assets/images/mug.jpg"
 
 aux_links:
   Linkedin: https://www.linkedin.com/in/cml-neuro/
+  Scholar: https://scholar.google.com/citations?user=aeAQZYYAAAAJ
+#  Neural coding: /#neural-coding
