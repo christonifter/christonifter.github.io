@@ -8,36 +8,63 @@ Welcome to my portfolio!
 
 ## Data Science/Machine Learning projects
 ---
-![](../../assets/images/RL.png)
-### [Reinforcement learning on a racetrack game](https://github.com/christonifter/Racetrack-learning/tree/main) (2024)
+### [Reinforcement learning on a racetrack game](https://github.com/christonifter/Racetrack-learning/tree/main)
+[<img src="../../assets/images/RL.png" width="200" height="200" /> ](https://github.com/christonifter/Racetrack-learning/tree/main)
 
----
-![](../../assets/images/DT.png)
-### [Decision tree regressor and classifier](https://github.com/christonifter/DecisionTreeML/tree/main) (2024)
+Python
+{: .label .label-yellow }
 
+Machine learning
+{: .label .label-green }
 ---
-![](../../assets/images/mc_stocks.png)
-### [Studying Stock Market prices with Markov chains](https://github.com/christonifter/Stock-Price-Markov-Model) (2024)
+### [Decision tree regressor and classifier](https://github.com/christonifter/DecisionTreeML/tree/main)
+[<img src="../../assets/images/DT.png" width="200" height="200" />](https://github.com/christonifter/DecisionTreeML/tree/main)
+
+Python
+{: .label .label-yellow }
+
+Machine learning
+{: .label .label-green }
+---
+### [Studying Stock Market prices with Markov chains](https://github.com/christonifter/Stock-Price-Markov-Model)
+[<img src="../../assets/images/mc_stocks.png" width="200" height="200" />](https://github.com/christonifter/Stock-Price-Markov-Model)
+
+R
+{: .label }
 
 
 ## Scholarly work
 ---
-![](../../assets/images/electrodes.jpg)
-### [Search for electrophysiological markers of tinnitus](/docs/tinnitus.html) (2019-2022)
----
+### [Electrophysiological markers of tinnitus](/docs/tinnitus.html) 
 
-![](../../assets/images/lsa.png)
-### [Neural changes after prolonged exposure to intense sound](/docs/lsa.html) (2018-2022)
----
+[<img src="../../assets/images/electrodes.jpg" width="200" height="200" />](/docs/tinnitus.html)
 
-![](../../assets/images/lsps.png)
-### [Effects of PCBs on the auditory cortex](/docs/pcb.html) (2016-2018)
----
+MATLAB
+{: .label .label-red } 
 
-![](../../assets/images/raster.png)
-### [Encoding temporal features of sound](/docs/sac.html) (2012-2015)
----
 
-![](../../assets/images/it.png)
-### [Induction of heterosynaptic plasticity](/docs/it.html) (2009-2012)
+---
+### [Sound-induced plasticity](/docs/lsa.html)
+[<img src="../../assets/images/lsa.png" width="200" height="200" />](/docs/lsa.html)
+
+MATLAB
+{: .label .label-red }
+---
+### [Effects of PCBs on the auditory cortex](/docs/pcb.html)
+[<img src="../../assets/images/lsps.png" width="200" height="200" />](/docs/pcb.html)
+
+MATLAB
+{: .label .label-red }
+---
+### [Encoding temporal features of sound](/docs/sac.html)
+[<img src="../../assets/images/raster.png" width="200" height="200" />](/docs/sac.html)
+
+MATLAB
+{: .label .label-red }
+---
+### [Induction of heterosynaptic plasticity](/docs/it.html)
+[<img src="../../assets/images/it.png" width="200" height="200" />](/docs/pcb.html)
+
+MATLAB
+{: .label .label-red }
 

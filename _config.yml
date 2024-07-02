@@ -8,3 +8,9 @@ aux_links:
   Linkedin: https://www.linkedin.com/in/cml-neuro/
   Scholar: https://scholar.google.com/citations?user=aeAQZYYAAAAJ
   Github: https://github.com/christonifter
+
+
+callouts:
+  relevant:
+    title: Relevant Publications
+    color: green
